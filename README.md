@@ -1,3 +1,5 @@
-## POKEMONFINDER REACT APP
+## POKEMONFINDER REACT APP 🚀
 
-check out  ###`pokemonfinder.netlify.com`
+`pokemonfinder.netlify.com `  
+
+### Made with ❤ and JS 
