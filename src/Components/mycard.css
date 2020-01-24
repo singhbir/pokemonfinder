@@ -1,0 +1,68 @@
+
+.abc{
+    min-width: 15rem !important;
+    max-width: 50rem;
+    display: inline-flex !important;
+    height:50vh;
+    margin:1% .9%;
+    border: 2px solid white !important;
+    background-color: #FF5252 !important;
+    color:white;
+    text-align: center;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 25px ;
+    transition: transform 1s;   
+    
+}
+.abc:hover{
+   transform:scale(1.07,1.07)
+}
+.cardimg{
+    height:40vh;
+    width:100%;
+    
+}
+
+@media only screen and (max-width: 1035px) {
+    .abc{ 
+       margin-left:5rem;
+       margin-right:-1.2rem; 
+    }
+  }
+  @media only screen and (max-width: 988px) {
+    .abc{ 
+       margin-left:6rem;      
+       margin-right:-0.5rem;
+        
+    }
+  }
+  @media only screen and (max-width: 500px) {
+    .abc{ 
+       margin-left:7rem;      
+       margin-right:-0.5rem;
+        
+    }
+  }
+ 
+  @media only screen and (max-width: 425px) {
+    .abc{ 
+       margin-left:5rem;      
+       margin-right:-0.5rem;
+        
+    }
+  }
+  @media only screen and (max-width: 375px) {
+    .abc{ 
+       margin-left:4.2rem;      
+       margin-right:-0.5rem;
+        
+    }
+  }
+  @media only screen and (max-width: 320px) {
+    .abc{ 
+       margin-left:2.8rem;      
+       margin-right:2rem;
+        
+    }
+  }
+ 
